@@ -1,34 +1,40 @@
-# 📚 DataBase
+# Database Engineering & SQL
 
-Repositório dedicado aos estudos, práticas e projetos relacionados a Banco de Dados utilizando SQL.
+Repositório de estudos, práticas e projetos relacionados a **banco de dados, SQL e integração de dados**.
 
-## 🚀 Objetivo
+O conteúdo inclui exercícios técnicos e aplicações práticas desenvolvidas durante minha formação em tecnologia.
 
-Este repositório foi criado para armazenar exercícios, consultas SQL, modelagens e práticas de banco de dados desenvolvidas durante meus estudos em tecnologia e desenvolvimento de software.
+## Competências demonstradas
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- SQL
+- Modelagem de dados
+- Relacionamentos e integridade referencial
+- CRUD e consultas SQL
+- Views
+- Procedures e Functions
 - MySQL
 - SQL Server
-- Git e GitHub
+- Integração de dados
 
----
+## Estrutura
 
-## 📂 Conteúdo do Repositório
+O repositório mantém projetos e estudos separados por contexto. Os conteúdos existentes não foram removidos; a organização serve como índice para facilitar a navegação.
 
-- Criação de tabelas
-- Inserção de dados (`INSERT`)
-- Consultas (`SELECT`)
-- Atualizações (`UPDATE`)
-- Remoção de dados (`DELETE`)
-- Relacionamentos entre tabelas
-- Chaves primárias e estrangeiras
-- Procedures e Functions
-- Views
-- Modelagem de banco de dados
-- Exercícios práticos
+### `database/`
 
----
+Exercícios e práticas de SQL, criação e manipulação de estruturas de banco.
+
+### `projeto do falabella/`
+
+Projeto prático envolvendo banco de dados e aplicação de conceitos de modelagem e gerenciamento de dados.
+
+### `sensor com SQL/`
+
+Conteúdo relacionado à integração de sensores com armazenamento e manipulação de dados em SQL.
+
+## Tecnologias
+
+`SQL` `MySQL` `SQL Server` `Git` `GitHub`
+
+## Objetivo profissional
+
+Este repositório complementa meu foco em **Cybersecurity, Security Engineering e Software Engineering**, demonstrando conhecimento de armazenamento, consulta, modelagem e integração de dados.
